@@ -49,6 +49,13 @@ pull request で間違いやすいから注意してね
 
 # About Issues
 
+`Issues` に関しても `branch` と同様に、ひとつの案に対してひとつの Issue を作成するようにしてください。  
+「追加予定の機能」みたいな Issue だと案が流れえてしまいがちなので。  
+何かアイデアや発見があったら話し合いの場を設けるという意味でも、  
+その都度 Issue を作成してください。  
+
 # About Scrum
+
+リリースノート作成係：@Yuji-Koga
 
 # About TDD
