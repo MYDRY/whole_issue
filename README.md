@@ -5,7 +5,7 @@
 # About branches
 
 ↓命名則に関してはこちら  
-[Branch の命名則](https://github.com/MyDry/whole_issue/issues/2)
+[Branch の命名則](https://github.com/MyDry/whole_issue/wiki#branch-%E3%81%AE%E5%91%BD%E5%90%8D%E5%89%87)
 
 **ブランチは原則、生えてきたところに統合すること**  
 pull request で間違って master に統合しないように注意してね
